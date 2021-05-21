@@ -4,11 +4,13 @@
 
 ## TensorFlow 2.0, Scikit-Learn, Pandas, Numpy, Matplotlib etc...
 
-### Redes Neurais Artificiais
-### Redes Neurais Convolucionais
-### Redes Neurais Recorrentes
-### Mapas Auto Organizáveis
-### Boltzmann Machines
-### Autoencoders
-### Redes Adversárias Generativas
+### Algorítimos Abordados Nesse Curso
+
+#### Redes Neurais Artificiais
+#### Redes Neurais Convolucionais
+#### Redes Neurais Recorrentes
+#### Mapas Auto Organizáveis
+#### Boltzmann Machines
+#### Autoencoders
+#### Redes Adversárias Generativas
 
